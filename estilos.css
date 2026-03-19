@@ -8,11 +8,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-<<<<<<< HEAD
     background-color: #0f0f0f;
-=======
-    background-color: #f0f0f0;
->>>>>>> 4d9aaacf47947399f11e966e06f9fcbb831fcaa1
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -92,11 +88,7 @@ button{
     top: 50%;
     transform: translateY(-50%);
     background-color: rgba(0, 0, 0, 0.5);
-<<<<<<< HEAD
     color: #00360d;
-=======
-    color: #fff;
->>>>>>> 4d9aaacf47947399f11e966e06f9fcbb831fcaa1
     border: none;
     padding: 10px;
     cursor: pointer;
